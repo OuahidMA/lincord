@@ -4,11 +4,11 @@ export default function Footer() {
   return (
     <footer className="footer sm:footer-horizontal bg-base-200 text-base-content border-t border-[#242728] bg-[#0d0d0d] p-10">
       <aside>
-        <span className="flex h-12 w-12 items-center justify-center rounded-lg bg-white shadow-[0_0_24px_rgba(220,38,38,0.35)]">
-          <span className="text-2xl font-extrabold leading-none text-red-600">
-            L
-          </span>
-        </span>
+        <img
+          src="/2.png"
+          alt="Lincord"
+          className="h-14 w-14 rounded-lg object-cover ring-1 ring-white/20"
+        />
         <p>
           Lincord Security
           <br />

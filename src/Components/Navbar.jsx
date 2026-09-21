@@ -22,10 +22,8 @@ const Logo = () => (
     to="/"
     className="relative z-20 mr-4 flex items-center gap-2 px-2 py-1"
   >
-    <span className="flex h-7 w-7 items-center justify-center rounded-md bg-white shadow-[0_0_18px_rgba(220,38,38,0.35)]">
-      <span className="text-base font-extrabold leading-none text-red-600">
-        L
-      </span>
+    <span className="flex h-7 w-7 items-center justify-center overflow-hidden rounded-md ring-1 ring-white/20">
+      <img src="/2.png" alt="Lincord" className="h-full w-full object-cover" />
     </span>
     <span className="text-sm font-semibold tracking-tight text-white">
       Lincord
