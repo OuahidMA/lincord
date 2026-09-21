@@ -9,7 +9,7 @@ import {
   MobileNavToggle,
   MobileNavMenu,
   NavbarButton,
-} from "@/components/ui/resizable-navbar";
+} from "@/Components/ui/resizable-navbar";
 
 const navItems = [
   { name: "Home", to: "/" },
