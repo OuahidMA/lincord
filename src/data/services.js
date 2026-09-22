@@ -26,7 +26,7 @@ export const services = [
       "Upload Vulnerability",
       "Cross-Site Scripting (XSS)",
       "Injection, SSRF & deserialization flaws",
-      "password Policy nd Auth Testing",
+      "Password Policy and Auth Testing",
     ],
   },
   {
