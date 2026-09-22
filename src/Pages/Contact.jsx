@@ -32,7 +32,7 @@ export default function Contact() {
             Contact
           </span>
           <h1 className="mt-4 text-4xl font-semibold leading-[1.1] tracking-tight text-white sm:text-5xl">
-            Tell us what to attack
+            Tell us what to pentest
           </h1>
           <p className="mt-5 max-w-md leading-relaxed text-neutral-400">
             Request a quote or scope an engagement. An auditor gets back to you
